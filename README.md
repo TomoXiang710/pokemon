@@ -1,0 +1,2 @@
+# pokemon
+hc_practiceリポジトリのサブモジュール
